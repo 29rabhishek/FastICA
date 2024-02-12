@@ -1,2 +1,2 @@
 # FastICA
-FastICA Symmetric Orthogonalization
+Implementation of FastICA in torch, parallel Congfig
